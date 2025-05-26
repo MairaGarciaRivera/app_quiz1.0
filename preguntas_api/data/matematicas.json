@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 3 + 5?",
+    "justification": "3 + 5 = 8",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": 0
+      },
+      {
+        "text": "8",
+        "is_correct": 1
+      },
+      {
+        "text": "10",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el resultado de 9 - 4?",
+    "justification": "9 - 4 = 5",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": 1
+      },
+      {
+        "text": "3",
+        "is_correct": 0
+      },
+      {
+        "text": "4",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 2 x 3?",
+    "justification": "2 x 3 = 6",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": 0
+      },
+      {
+        "text": "6",
+        "is_correct": 1
+      },
+      {
+        "text": "7",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 10 dividido entre 2?",
+    "justification": "10 / 2 = 5",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": 0
+      },
+      {
+        "text": "5",
+        "is_correct": 1
+      },
+      {
+        "text": "10",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el número mayor?",
+    "justification": "Entre 7, 2 y 5, el mayor es 7",
+    "options": [
+      {
+        "text": "7",
+        "is_correct": 1
+      },
+      {
+        "text": "5",
+        "is_correct": 0
+      },
+      {
+        "text": "2",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 4 + 4?",
+    "justification": "4 + 4 = 8",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": 0
+      },
+      {
+        "text": "8",
+        "is_correct": 1
+      },
+      {
+        "text": "9",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Qué número sigue en la secuencia: 2, 4, 6...?",
+    "justification": "Es una secuencia de +2. Sigue 8",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": 0
+      },
+      {
+        "text": "8",
+        "is_correct": 1
+      },
+      {
+        "text": "10",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 1 + 0?",
+    "justification": "1 + 0 = 1",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": 1
+      },
+      {
+        "text": "0",
+        "is_correct": 0
+      },
+      {
+        "text": "2",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 7 - 3?",
+    "justification": "7 - 3 = 4",
+    "options": [
+      {
+        "text": "4",
+        "is_correct": 1
+      },
+      {
+        "text": "3",
+        "is_correct": 0
+      },
+      {
+        "text": "5",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category_id": 1,
+    "difficulty": "fácil",
+    "text": "¿Cuánto es 6 + 2?",
+    "justification": "6 + 2 = 8",
+    "options": [
+      {
+        "text": "8",
+        "is_correct": 1
+      },
+      {
+        "text": "7",
+        "is_correct": 0
+      },
+      {
+        "text": "6",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuál es el resultado de 12 x 3?",
+    "justification": "12 x 3 = 36",
+    "options": [
+      {
+        "text": "36",
+        "is_correct": 1
+      },
+      {
+        "text": "30",
+        "is_correct": 0
+      },
+      {
+        "text": "42",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 25 ÷ 5?",
+    "justification": "25 ÷ 5 = 5",
+    "options": [
+      {
+        "text": "4",
+        "is_correct": 0
+      },
+      {
+        "text": "5",
+        "is_correct": 1
+      },
+      {
+        "text": "6",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 15 + 8?",
+    "justification": "15 + 8 = 23",
+    "options": [
+      {
+        "text": "22",
+        "is_correct": 0
+      },
+      {
+        "text": "23",
+        "is_correct": 1
+      },
+      {
+        "text": "24",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 18 - 7?",
+    "justification": "18 - 7 = 11",
+    "options": [
+      {
+        "text": "10",
+        "is_correct": 0
+      },
+      {
+        "text": "11",
+        "is_correct": 1
+      },
+      {
+        "text": "12",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 9 x 6?",
+    "justification": "9 x 6 = 54",
+    "options": [
+      {
+        "text": "54",
+        "is_correct": 1
+      },
+      {
+        "text": "64",
+        "is_correct": 0
+      },
+      {
+        "text": "56",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuál es el doble de 14?",
+    "justification": "14 x 2 = 28",
+    "options": [
+      {
+        "text": "28",
+        "is_correct": 1
+      },
+      {
+        "text": "24",
+        "is_correct": 0
+      },
+      {
+        "text": "26",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 81 ÷ 9?",
+    "justification": "81 ÷ 9 = 9",
+    "options": [
+      {
+        "text": "9",
+        "is_correct": 1
+      },
+      {
+        "text": "8",
+        "is_correct": 0
+      },
+      {
+        "text": "7",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuál es la raíz cuadrada de 49?",
+    "justification": "√49 = 7",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": 0
+      },
+      {
+        "text": "7",
+        "is_correct": 1
+      },
+      {
+        "text": "8",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 11 x 4?",
+    "justification": "11 x 4 = 44",
+    "options": [
+      {
+        "text": "44",
+        "is_correct": 1
+      },
+      {
+        "text": "42",
+        "is_correct": 0
+      },
+      {
+        "text": "40",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category_id": 1,
+    "difficulty": "medio",
+    "text": "¿Cuánto es 100 ÷ 20?",
+    "justification": "100 ÷ 20 = 5",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": 1
+      },
+      {
+        "text": "10",
+        "is_correct": 0
+      },
+      {
+        "text": "20",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es (8 x 5) - (6 ÷ 2)?",
+    "justification": "40 - 3 = 37",
+    "options": [
+      {
+        "text": "37",
+        "is_correct": 1
+      },
+      {
+        "text": "36",
+        "is_correct": 0
+      },
+      {
+        "text": "38",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es 12²?",
+    "justification": "12² = 144",
+    "options": [
+      {
+        "text": "144",
+        "is_correct": 1
+      },
+      {
+        "text": "124",
+        "is_correct": 0
+      },
+      {
+        "text": "154",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el mínimo común múltiplo de 4 y 6?",
+    "justification": "MCM(4,6) = 12",
+    "options": [
+      {
+        "text": "12",
+        "is_correct": 1
+      },
+      {
+        "text": "24",
+        "is_correct": 0
+      },
+      {
+        "text": "6",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el máximo común divisor de 18 y 24?",
+    "justification": "MCD(18,24) = 6",
+    "options": [
+      {
+        "text": "6",
+        "is_correct": 1
+      },
+      {
+        "text": "3",
+        "is_correct": 0
+      },
+      {
+        "text": "12",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es 3³?",
+    "justification": "3³ = 27",
+    "options": [
+      {
+        "text": "27",
+        "is_correct": 1
+      },
+      {
+        "text": "9",
+        "is_correct": 0
+      },
+      {
+        "text": "21",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es 100 - (25 x 2)?",
+    "justification": "100 - 50 = 50",
+    "options": [
+      {
+        "text": "50",
+        "is_correct": 1
+      },
+      {
+        "text": "40",
+        "is_correct": 0
+      },
+      {
+        "text": "60",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuál es la raíz cuadrada de 121?",
+    "justification": "√121 = 11",
+    "options": [
+      {
+        "text": "11",
+        "is_correct": 1
+      },
+      {
+        "text": "12",
+        "is_correct": 0
+      },
+      {
+        "text": "10",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es 2 x (5 + 3)?",
+    "justification": "2 x 8 = 16",
+    "options": [
+      {
+        "text": "16",
+        "is_correct": 1
+      },
+      {
+        "text": "13",
+        "is_correct": 0
+      },
+      {
+        "text": "14",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuánto es 45 ÷ (3 x 3)?",
+    "justification": "45 ÷ 9 = 5",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": 1
+      },
+      {
+        "text": "3",
+        "is_correct": 0
+      },
+      {
+        "text": "9",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category_id": 1,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el resultado de 7 x 7 - 7?",
+    "justification": "49 - 7 = 42",
+    "options": [
+      {
+        "text": "42",
+        "is_correct": 1
+      },
+      {
+        "text": "40",
+        "is_correct": 0
+      },
+      {
+        "text": "36",
+        "is_correct": 0
+      }
+    ]
+  }
+]

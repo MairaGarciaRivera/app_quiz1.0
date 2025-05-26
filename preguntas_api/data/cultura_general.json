@@ -1,0 +1,632 @@
+[
+  {
+    "id": 3001,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el océano más grande del mundo?",
+    "justification": "El Océano Pacífico",
+    "options": [
+      {
+        "text": "Pacífico",
+        "is_correct": 1
+      },
+      {
+        "text": "Atlántico",
+        "is_correct": 0
+      },
+      {
+        "text": "Índico",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuál es la capital de Francia?",
+    "justification": "París es la capital",
+    "options": [
+      {
+        "text": "París",
+        "is_correct": 1
+      },
+      {
+        "text": "Madrid",
+        "is_correct": 0
+      },
+      {
+        "text": "Roma",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Qué planeta es conocido como el planeta rojo?",
+    "justification": "Marte",
+    "options": [
+      {
+        "text": "Marte",
+        "is_correct": 1
+      },
+      {
+        "text": "Júpiter",
+        "is_correct": 0
+      },
+      {
+        "text": "Venus",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3004,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el idioma más hablado en el mundo?",
+    "justification": "El mandarín",
+    "options": [
+      {
+        "text": "Mandarín",
+        "is_correct": 1
+      },
+      {
+        "text": "Inglés",
+        "is_correct": 0
+      },
+      {
+        "text": "Español",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3005,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el metal más ligero?",
+    "justification": "El litio es el más ligero",
+    "options": [
+      {
+        "text": "Litio",
+        "is_correct": 1
+      },
+      {
+        "text": "Aluminio",
+        "is_correct": 0
+      },
+      {
+        "text": "Plomo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3006,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Qué instrumento mide la temperatura?",
+    "justification": "El termómetro",
+    "options": [
+      {
+        "text": "Termómetro",
+        "is_correct": 1
+      },
+      {
+        "text": "Barómetro",
+        "is_correct": 0
+      },
+      {
+        "text": "Higrómetro",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3007,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuántos continentes hay en el mundo?",
+    "justification": "Siete continentes",
+    "options": [
+      {
+        "text": "7",
+        "is_correct": 1
+      },
+      {
+        "text": "5",
+        "is_correct": 0
+      },
+      {
+        "text": "6",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3008,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Cuál es el país más grande del mundo?",
+    "justification": "Rusia",
+    "options": [
+      {
+        "text": "Rusia",
+        "is_correct": 1
+      },
+      {
+        "text": "China",
+        "is_correct": 0
+      },
+      {
+        "text": "EE.UU.",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3009,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Qué animal es conocido como el rey de la selva?",
+    "justification": "El león",
+    "options": [
+      {
+        "text": "León",
+        "is_correct": 1
+      },
+      {
+        "text": "Tigre",
+        "is_correct": 0
+      },
+      {
+        "text": "Elefante",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3010,
+    "category_id": 4,
+    "difficulty": "fácil",
+    "text": "¿Qué gas necesitamos para respirar?",
+    "justification": "El oxígeno",
+    "options": [
+      {
+        "text": "Oxígeno",
+        "is_correct": 1
+      },
+      {
+        "text": "Nitrógeno",
+        "is_correct": 0
+      },
+      {
+        "text": "Hidrógeno",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3011,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Cuál es la moneda oficial de Japón?",
+    "justification": "El yen",
+    "options": [
+      {
+        "text": "Yen",
+        "is_correct": 1
+      },
+      {
+        "text": "Won",
+        "is_correct": 0
+      },
+      {
+        "text": "Peso",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3012,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Cuál es el río más largo del mundo?",
+    "justification": "El Amazonas",
+    "options": [
+      {
+        "text": "Amazonas",
+        "is_correct": 1
+      },
+      {
+        "text": "Nilo",
+        "is_correct": 0
+      },
+      {
+        "text": "Yangtsé",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3013,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué escritor escribió 'Cien años de soledad'?",
+    "justification": "Gabriel García Márquez",
+    "options": [
+      {
+        "text": "García Márquez",
+        "is_correct": 1
+      },
+      {
+        "text": "Borges",
+        "is_correct": 0
+      },
+      {
+        "text": "Cervantes",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3014,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué elemento tiene el símbolo químico O?",
+    "justification": "El oxígeno",
+    "options": [
+      {
+        "text": "Oxígeno",
+        "is_correct": 1
+      },
+      {
+        "text": "Oro",
+        "is_correct": 0
+      },
+      {
+        "text": "Osmio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3015,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué país tiene forma de bota?",
+    "justification": "Italia",
+    "options": [
+      {
+        "text": "Italia",
+        "is_correct": 1
+      },
+      {
+        "text": "España",
+        "is_correct": 0
+      },
+      {
+        "text": "Chile",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3016,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué animal pone huevos pero no vuela?",
+    "justification": "El avestruz",
+    "options": [
+      {
+        "text": "Avestruz",
+        "is_correct": 1
+      },
+      {
+        "text": "Gallina",
+        "is_correct": 0
+      },
+      {
+        "text": "Pingüino",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3017,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Cuál es el principal ingrediente del guacamole?",
+    "justification": "Aguacate",
+    "options": [
+      {
+        "text": "Aguacate",
+        "is_correct": 1
+      },
+      {
+        "text": "Tomate",
+        "is_correct": 0
+      },
+      {
+        "text": "Cebolla",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3018,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Quién pintó la Mona Lisa?",
+    "justification": "Leonardo da Vinci",
+    "options": [
+      {
+        "text": "Leonardo da Vinci",
+        "is_correct": 1
+      },
+      {
+        "text": "Picasso",
+        "is_correct": 0
+      },
+      {
+        "text": "Van Gogh",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3019,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué día se celebra el Día de la Tierra?",
+    "justification": "22 de abril",
+    "options": [
+      {
+        "text": "22 de abril",
+        "is_correct": 1
+      },
+      {
+        "text": "5 de junio",
+        "is_correct": 0
+      },
+      {
+        "text": "12 de marzo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3020,
+    "category_id": 4,
+    "difficulty": "medio",
+    "text": "¿Qué país inventó el papel?",
+    "justification": "China",
+    "options": [
+      {
+        "text": "China",
+        "is_correct": 1
+      },
+      {
+        "text": "Egipto",
+        "is_correct": 0
+      },
+      {
+        "text": "Grecia",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3021,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Cuál es la capital de Mongolia?",
+    "justification": "Ulán Bator",
+    "options": [
+      {
+        "text": "Ulán Bator",
+        "is_correct": 1
+      },
+      {
+        "text": "Astana",
+        "is_correct": 0
+      },
+      {
+        "text": "Tashkent",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3022,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué científico propuso la teoría de la relatividad?",
+    "justification": "Albert Einstein",
+    "options": [
+      {
+        "text": "Einstein",
+        "is_correct": 1
+      },
+      {
+        "text": "Newton",
+        "is_correct": 0
+      },
+      {
+        "text": "Bohr",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3023,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué año cayó el muro de Berlín?",
+    "justification": "En 1989",
+    "options": [
+      {
+        "text": "1989",
+        "is_correct": 1
+      },
+      {
+        "text": "1991",
+        "is_correct": 0
+      },
+      {
+        "text": "1979",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3024,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué órgano del cuerpo humano produce insulina?",
+    "justification": "El páncreas",
+    "options": [
+      {
+        "text": "Páncreas",
+        "is_correct": 1
+      },
+      {
+        "text": "Hígado",
+        "is_correct": 0
+      },
+      {
+        "text": "Riñón",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3025,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué isla pertenece a Francia y está en América?",
+    "justification": "Guadalupe",
+    "options": [
+      {
+        "text": "Guadalupe",
+        "is_correct": 1
+      },
+      {
+        "text": "Puerto Rico",
+        "is_correct": 0
+      },
+      {
+        "text": "Haití",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3026,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Quién escribió 'La Odisea'?",
+    "justification": "Homero",
+    "options": [
+      {
+        "text": "Homero",
+        "is_correct": 1
+      },
+      {
+        "text": "Sófocles",
+        "is_correct": 0
+      },
+      {
+        "text": "Virgilio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3027,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el idioma oficial de Irán?",
+    "justification": "Persa (farsi)",
+    "options": [
+      {
+        "text": "Persa",
+        "is_correct": 1
+      },
+      {
+        "text": "Árabe",
+        "is_correct": 0
+      },
+      {
+        "text": "Turco",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3028,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué país tiene más volcanes activos?",
+    "justification": "Indonesia",
+    "options": [
+      {
+        "text": "Indonesia",
+        "is_correct": 1
+      },
+      {
+        "text": "Japón",
+        "is_correct": 0
+      },
+      {
+        "text": "Islandia",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3029,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el segundo elemento en la tabla periódica?",
+    "justification": "Helio (He)",
+    "options": [
+      {
+        "text": "Helio",
+        "is_correct": 1
+      },
+      {
+        "text": "Hidrógeno",
+        "is_correct": 0
+      },
+      {
+        "text": "Litio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3030,
+    "category_id": 4,
+    "difficulty": "difícil",
+    "text": "¿Qué filósofo fue maestro de Alejandro Magno?",
+    "justification": "Aristóteles",
+    "options": [
+      {
+        "text": "Aristóteles",
+        "is_correct": 1
+      },
+      {
+        "text": "Platón",
+        "is_correct": 0
+      },
+      {
+        "text": "Sócrates",
+        "is_correct": 0
+      }
+    ]
+  }
+]

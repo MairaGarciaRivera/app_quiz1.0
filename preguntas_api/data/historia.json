@@ -1,0 +1,632 @@
+[
+  {
+    "id": 2001,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Quién descubrió América?",
+    "justification": "Cristóbal Colón llegó a América en 1492",
+    "options": [
+      {
+        "text": "Cristóbal Colón",
+        "is_correct": 1
+      },
+      {
+        "text": "Américo Vespucio",
+        "is_correct": 0
+      },
+      {
+        "text": "Fernando de Magallanes",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿En qué año fue la independencia de Estados Unidos?",
+    "justification": "Fue en 1776",
+    "options": [
+      {
+        "text": "1776",
+        "is_correct": 1
+      },
+      {
+        "text": "1789",
+        "is_correct": 0
+      },
+      {
+        "text": "1804",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Quién fue el primer presidente de Estados Unidos?",
+    "justification": "George Washington fue el primero",
+    "options": [
+      {
+        "text": "George Washington",
+        "is_correct": 1
+      },
+      {
+        "text": "Abraham Lincoln",
+        "is_correct": 0
+      },
+      {
+        "text": "Thomas Jefferson",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Qué civilización construyó las pirámides de Egipto?",
+    "justification": "Los antiguos egipcios",
+    "options": [
+      {
+        "text": "Egipcia",
+        "is_correct": 1
+      },
+      {
+        "text": "Maya",
+        "is_correct": 0
+      },
+      {
+        "text": "Romana",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Quién fue Napoleón Bonaparte?",
+    "justification": "Un militar y emperador francés",
+    "options": [
+      {
+        "text": "Emperador francés",
+        "is_correct": 1
+      },
+      {
+        "text": "Rey inglés",
+        "is_correct": 0
+      },
+      {
+        "text": "Explorador español",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2006,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Cuál fue la causa de la Primera Guerra Mundial?",
+    "justification": "El asesinato del archiduque Francisco Fernando",
+    "options": [
+      {
+        "text": "Asesinato del archiduque",
+        "is_correct": 1
+      },
+      {
+        "text": "Invasión a Polonia",
+        "is_correct": 0
+      },
+      {
+        "text": "Ataque a Pearl Harbor",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2007,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Qué país lanzó la bomba atómica en Hiroshima?",
+    "justification": "Estados Unidos lanzó la bomba",
+    "options": [
+      {
+        "text": "Estados Unidos",
+        "is_correct": 1
+      },
+      {
+        "text": "Japón",
+        "is_correct": 0
+      },
+      {
+        "text": "Alemania",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2008,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Qué muralla fue construida para defender China?",
+    "justification": "La Gran Muralla China",
+    "options": [
+      {
+        "text": "La Gran Muralla",
+        "is_correct": 1
+      },
+      {
+        "text": "El Muro de Berlín",
+        "is_correct": 0
+      },
+      {
+        "text": "El Muro de Adriano",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2009,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Qué guerra duró más de 100 años?",
+    "justification": "La Guerra de los Cien Años",
+    "options": [
+      {
+        "text": "La Guerra de los Cien Años",
+        "is_correct": 1
+      },
+      {
+        "text": "Primera Guerra Mundial",
+        "is_correct": 0
+      },
+      {
+        "text": "Segunda Guerra Mundial",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2010,
+    "category_id": 3,
+    "difficulty": "fácil",
+    "text": "¿Quién fue Simón Bolívar?",
+    "justification": "Líder de la independencia en América del Sur",
+    "options": [
+      {
+        "text": "Líder de independencia",
+        "is_correct": 1
+      },
+      {
+        "text": "Presidente de México",
+        "is_correct": 0
+      },
+      {
+        "text": "Conquistador español",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿En qué año cayó el Imperio Romano de Occidente?",
+    "justification": "En 476 d.C.",
+    "options": [
+      {
+        "text": "476",
+        "is_correct": 1
+      },
+      {
+        "text": "1492",
+        "is_correct": 0
+      },
+      {
+        "text": "800",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2012,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Quién fue el conquistador del Imperio Inca?",
+    "justification": "Francisco Pizarro",
+    "options": [
+      {
+        "text": "Francisco Pizarro",
+        "is_correct": 1
+      },
+      {
+        "text": "Hernán Cortés",
+        "is_correct": 0
+      },
+      {
+        "text": "Cristóbal Colón",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2013,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿En qué siglo comenzó la Revolución Francesa?",
+    "justification": "En el siglo XVIII",
+    "options": [
+      {
+        "text": "Siglo XVIII",
+        "is_correct": 1
+      },
+      {
+        "text": "Siglo XVII",
+        "is_correct": 0
+      },
+      {
+        "text": "Siglo XIX",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2014,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Cuál fue la primera civilización en usar escritura?",
+    "justification": "Los sumerios con la cuneiforme",
+    "options": [
+      {
+        "text": "Sumerios",
+        "is_correct": 1
+      },
+      {
+        "text": "Egipcios",
+        "is_correct": 0
+      },
+      {
+        "text": "Griegos",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2015,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "justification": "En 1939",
+    "options": [
+      {
+        "text": "1939",
+        "is_correct": 1
+      },
+      {
+        "text": "1945",
+        "is_correct": 0
+      },
+      {
+        "text": "1914",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2016,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Quién escribió la Declaración de Independencia de EE.UU.?",
+    "justification": "Thomas Jefferson",
+    "options": [
+      {
+        "text": "Jefferson",
+        "is_correct": 1
+      },
+      {
+        "text": "Washington",
+        "is_correct": 0
+      },
+      {
+        "text": "Lincoln",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2017,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Qué imperio construyó el Coliseo?",
+    "justification": "El Imperio Romano",
+    "options": [
+      {
+        "text": "Romano",
+        "is_correct": 1
+      },
+      {
+        "text": "Griego",
+        "is_correct": 0
+      },
+      {
+        "text": "Bizantino",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2018,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Qué reina inglesa era conocida como 'la Reina Virgen'?",
+    "justification": "Isabel I",
+    "options": [
+      {
+        "text": "Isabel I",
+        "is_correct": 1
+      },
+      {
+        "text": "Victoria",
+        "is_correct": 0
+      },
+      {
+        "text": "Catalina",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2019,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Qué evento terminó con la Edad Media?",
+    "justification": "La caída de Constantinopla en 1453",
+    "options": [
+      {
+        "text": "Caída de Constantinopla",
+        "is_correct": 1
+      },
+      {
+        "text": "Descubrimiento de América",
+        "is_correct": 0
+      },
+      {
+        "text": "Reforma protestante",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2020,
+    "category_id": 3,
+    "difficulty": "medio",
+    "text": "¿Quién lideró la Reforma Protestante?",
+    "justification": "Martín Lutero",
+    "options": [
+      {
+        "text": "Martín Lutero",
+        "is_correct": 1
+      },
+      {
+        "text": "Calvino",
+        "is_correct": 0
+      },
+      {
+        "text": "Enrique VIII",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Qué emperador romano legalizó el cristianismo?",
+    "justification": "Constantino con el Edicto de Milán",
+    "options": [
+      {
+        "text": "Constantino",
+        "is_correct": 1
+      },
+      {
+        "text": "Nerón",
+        "is_correct": 0
+      },
+      {
+        "text": "Julio César",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2022,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Cuál fue la principal causa de la Guerra Fría?",
+    "justification": "Tensión entre EE.UU. y URSS por ideologías",
+    "options": [
+      {
+        "text": "Tensión ideológica",
+        "is_correct": 1
+      },
+      {
+        "text": "Colonización",
+        "is_correct": 0
+      },
+      {
+        "text": "Economía global",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2023,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Quién fue el último zar de Rusia?",
+    "justification": "Nicolás II",
+    "options": [
+      {
+        "text": "Nicolás II",
+        "is_correct": 1
+      },
+      {
+        "text": "Pedro el Grande",
+        "is_correct": 0
+      },
+      {
+        "text": "Iván IV",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2024,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+    "justification": "El Tratado de Versalles",
+    "options": [
+      {
+        "text": "Versalles",
+        "is_correct": 1
+      },
+      {
+        "text": "Tordesillas",
+        "is_correct": 0
+      },
+      {
+        "text": "París",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2025,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Quién fue el primer emperador chino?",
+    "justification": "Qin Shi Huang",
+    "options": [
+      {
+        "text": "Qin Shi Huang",
+        "is_correct": 1
+      },
+      {
+        "text": "Sun Tzu",
+        "is_correct": 0
+      },
+      {
+        "text": "Confucio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2026,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Dónde ocurrió la batalla de Waterloo?",
+    "justification": "En Bélgica",
+    "options": [
+      {
+        "text": "Bélgica",
+        "is_correct": 1
+      },
+      {
+        "text": "Francia",
+        "is_correct": 0
+      },
+      {
+        "text": "Alemania",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2027,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Qué rey inglés tuvo seis esposas?",
+    "justification": "Enrique VIII",
+    "options": [
+      {
+        "text": "Enrique VIII",
+        "is_correct": 1
+      },
+      {
+        "text": "Carlos I",
+        "is_correct": 0
+      },
+      {
+        "text": "Eduardo VI",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2028,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Qué año cayó Constantinopla?",
+    "justification": "1453",
+    "options": [
+      {
+        "text": "1453",
+        "is_correct": 1
+      },
+      {
+        "text": "1492",
+        "is_correct": 0
+      },
+      {
+        "text": "1517",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2029,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Quién fue el líder de la Revolución Cubana?",
+    "justification": "Fidel Castro",
+    "options": [
+      {
+        "text": "Fidel Castro",
+        "is_correct": 1
+      },
+      {
+        "text": "Che Guevara",
+        "is_correct": 0
+      },
+      {
+        "text": "Raúl Castro",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2030,
+    "category_id": 3,
+    "difficulty": "difícil",
+    "text": "¿Qué nave llegó primero a la luna?",
+    "justification": "Apollo 11",
+    "options": [
+      {
+        "text": "Apollo 11",
+        "is_correct": 1
+      },
+      {
+        "text": "Sputnik",
+        "is_correct": 0
+      },
+      {
+        "text": "Voyager",
+        "is_correct": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1001,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué tiene un ojo pero no puede ver?",
+    "justification": "Una aguja tiene un ojo, pero no ve",
+    "options": [
+      {
+        "text": "Una aguja",
+        "is_correct": 1
+      },
+      {
+        "text": "Un huracán",
+        "is_correct": 0
+      },
+      {
+        "text": "Una cerradura",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué sube pero nunca baja?",
+    "justification": "La edad solo sube",
+    "options": [
+      {
+        "text": "La edad",
+        "is_correct": 1
+      },
+      {
+        "text": "El sol",
+        "is_correct": 0
+      },
+      {
+        "text": "La temperatura",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué se moja mientras seca?",
+    "justification": "La toalla seca, pero se moja",
+    "options": [
+      {
+        "text": "Una esponja",
+        "is_correct": 0
+      },
+      {
+        "text": "Una toalla",
+        "is_correct": 1
+      },
+      {
+        "text": "El agua",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué palabra está mal escrita en el diccionario?",
+    "justification": "La palabra 'mal' está mal escrita",
+    "options": [
+      {
+        "text": "Mal",
+        "is_correct": 1
+      },
+      {
+        "text": "Error",
+        "is_correct": 0
+      },
+      {
+        "text": "Equivocación",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué cosa tiene manos pero no puede aplaudir?",
+    "justification": "Un reloj tiene manos pero no aplaude",
+    "options": [
+      {
+        "text": "Un reloj",
+        "is_correct": 1
+      },
+      {
+        "text": "Un robot",
+        "is_correct": 0
+      },
+      {
+        "text": "Una estatua",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué pasa si tiras una piedra al Mar Rojo?",
+    "justification": "Se moja, como en cualquier mar",
+    "options": [
+      {
+        "text": "Se hunde",
+        "is_correct": 0
+      },
+      {
+        "text": "Se moja",
+        "is_correct": 1
+      },
+      {
+        "text": "Nada",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué es lo que no se puede usar antes de romperlo?",
+    "justification": "Un huevo debe romperse para usarse",
+    "options": [
+      {
+        "text": "Un huevo",
+        "is_correct": 1
+      },
+      {
+        "text": "Una caja",
+        "is_correct": 0
+      },
+      {
+        "text": "Un espejo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué tiene muchos dientes pero no muerde?",
+    "justification": "El peine tiene dientes pero no muerde",
+    "options": [
+      {
+        "text": "Un peine",
+        "is_correct": 1
+      },
+      {
+        "text": "Una sierra",
+        "is_correct": 0
+      },
+      {
+        "text": "Un león",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué tiene cuello pero no cabeza?",
+    "justification": "Una camisa tiene cuello sin cabeza",
+    "options": [
+      {
+        "text": "Una camisa",
+        "is_correct": 1
+      },
+      {
+        "text": "Una botella",
+        "is_correct": 0
+      },
+      {
+        "text": "Un jarrón",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "category_id": 2,
+    "difficulty": "fácil",
+    "text": "¿Qué tiene patas pero no camina?",
+    "justification": "Una silla tiene patas pero no camina",
+    "options": [
+      {
+        "text": "Una silla",
+        "is_correct": 1
+      },
+      {
+        "text": "Un perro",
+        "is_correct": 0
+      },
+      {
+        "text": "Un bastón",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Me puedes ver en el agua pero no me mojo. ¿Qué soy?",
+    "justification": "Un reflejo se ve pero no se moja",
+    "options": [
+      {
+        "text": "Reflejo",
+        "is_correct": 1
+      },
+      {
+        "text": "Sombra",
+        "is_correct": 0
+      },
+      {
+        "text": "Espejo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Si un tren eléctrico va hacia el norte y el viento hacia el sur, ¿hacia dónde va el humo?",
+    "justification": "No hay humo en trenes eléctricos",
+    "options": [
+      {
+        "text": "No hay humo",
+        "is_correct": 1
+      },
+      {
+        "text": "Al norte",
+        "is_correct": 0
+      },
+      {
+        "text": "Al sur",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Cuanto más le quitas, más grande es. ¿Qué es?",
+    "justification": "Un agujero se agranda al quitar material",
+    "options": [
+      {
+        "text": "Agujero",
+        "is_correct": 1
+      },
+      {
+        "text": "Sombra",
+        "is_correct": 0
+      },
+      {
+        "text": "Silencio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Tengo ciudades, pero no casas. ¿Qué soy?",
+    "justification": "Un mapa tiene ciudades pero no casas",
+    "options": [
+      {
+        "text": "Mapa",
+        "is_correct": 1
+      },
+      {
+        "text": "Libro",
+        "is_correct": 0
+      },
+      {
+        "text": "Planeta",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Puedes sostenerlo sin usar tus manos. ¿Qué es?",
+    "justification": "La respiración",
+    "options": [
+      {
+        "text": "El aliento",
+        "is_correct": 1
+      },
+      {
+        "text": "El sol",
+        "is_correct": 0
+      },
+      {
+        "text": "El tiempo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "¿Qué corre y no tiene piernas?",
+    "justification": "El agua corre sin piernas",
+    "options": [
+      {
+        "text": "El agua",
+        "is_correct": 1
+      },
+      {
+        "text": "La nube",
+        "is_correct": 0
+      },
+      {
+        "text": "El tiempo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "Cuanto más seco, más pequeño soy. ¿Qué soy?",
+    "justification": "Un charco se seca y se reduce",
+    "options": [
+      {
+        "text": "Un charco",
+        "is_correct": 1
+      },
+      {
+        "text": "Una planta",
+        "is_correct": 0
+      },
+      {
+        "text": "Una nube",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "¿Qué se rompe con una sola palabra?",
+    "justification": "El silencio se rompe al hablar",
+    "options": [
+      {
+        "text": "Silencio",
+        "is_correct": 1
+      },
+      {
+        "text": "Cristal",
+        "is_correct": 0
+      },
+      {
+        "text": "Confianza",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "¿Qué está lleno de agujeros pero aún puede contener agua?",
+    "justification": "Una esponja",
+    "options": [
+      {
+        "text": "Esponja",
+        "is_correct": 1
+      },
+      {
+        "text": "Vaso",
+        "is_correct": 0
+      },
+      {
+        "text": "Cubo",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "category_id": 2,
+    "difficulty": "medio",
+    "text": "¿Qué tiene una cabeza, una cola, pero no cuerpo?",
+    "justification": "Una moneda tiene cabeza y cola",
+    "options": [
+      {
+        "text": "Una moneda",
+        "is_correct": 1
+      },
+      {
+        "text": "Una serpiente",
+        "is_correct": 0
+      },
+      {
+        "text": "Un alfiler",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "Si me nombras, desaparezco. ¿Qué soy?",
+    "justification": "El silencio desaparece al nombrarlo",
+    "options": [
+      {
+        "text": "Silencio",
+        "is_correct": 1
+      },
+      {
+        "text": "Eco",
+        "is_correct": 0
+      },
+      {
+        "text": "Oscuridad",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "Soy alto cuando soy joven y bajo cuando soy viejo. ¿Qué soy?",
+    "justification": "Una vela es alta al inicio",
+    "options": [
+      {
+        "text": "Vela",
+        "is_correct": 1
+      },
+      {
+        "text": "Árbol",
+        "is_correct": 0
+      },
+      {
+        "text": "Montaña",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "Dos padres y dos hijos entran, pero solo tres personas. ¿Cómo puede ser?",
+    "justification": "Es abuelo, padre e hijo",
+    "options": [
+      {
+        "text": "Son tres generaciones",
+        "is_correct": 1
+      },
+      {
+        "text": "No se puede",
+        "is_correct": 0
+      },
+      {
+        "text": "Uno es adoptado",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "¿Cuál es el mes que tiene 28 días?",
+    "justification": "Todos los meses tienen al menos 28",
+    "options": [
+      {
+        "text": "Todos",
+        "is_correct": 1
+      },
+      {
+        "text": "Febrero",
+        "is_correct": 0
+      },
+      {
+        "text": "Abril",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "¿Qué puedes atrapar pero no lanzar?",
+    "justification": "Un resfriado se atrapa, no se lanza",
+    "options": [
+      {
+        "text": "Un resfriado",
+        "is_correct": 1
+      },
+      {
+        "text": "Una pelota",
+        "is_correct": 0
+      },
+      {
+        "text": "Una sombra",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "Tiene agujas pero no cose. ¿Qué es?",
+    "justification": "Un reloj tiene agujas",
+    "options": [
+      {
+        "text": "Un reloj",
+        "is_correct": 1
+      },
+      {
+        "text": "Una brújula",
+        "is_correct": 0
+      },
+      {
+        "text": "Una radio",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "¿Qué tiene raíz pero nunca florece?",
+    "justification": "Una raíz cuadrada",
+    "options": [
+      {
+        "text": "Raíz cuadrada",
+        "is_correct": 1
+      },
+      {
+        "text": "Árbol muerto",
+        "is_correct": 0
+      },
+      {
+        "text": "Nube",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "Me encuentras en el cielo pero no vuelo. ¿Qué soy?",
+    "justification": "Una estrella (astro)",
+    "options": [
+      {
+        "text": "Una estrella",
+        "is_correct": 1
+      },
+      {
+        "text": "Una nube",
+        "is_correct": 0
+      },
+      {
+        "text": "Un avión",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "¿Qué crece mientras más le quitas?",
+    "justification": "El agujero crece al quitar",
+    "options": [
+      {
+        "text": "Agujero",
+        "is_correct": 1
+      },
+      {
+        "text": "Túnel",
+        "is_correct": 0
+      },
+      {
+        "text": "Curiosidad",
+        "is_correct": 0
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "category_id": 2,
+    "difficulty": "difícil",
+    "text": "¿Qué puedes sostener por minutos pero nunca ver?",
+    "justification": "La respiración",
+    "options": [
+      {
+        "text": "La respiración",
+        "is_correct": 1
+      },
+      {
+        "text": "La amistad",
+        "is_correct": 0
+      },
+      {
+        "text": "El sol",
+        "is_correct": 0
+      }
+    ]
+  }
+]
