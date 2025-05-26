@@ -1,2 +1,10 @@
-
+services:
+  - type: web
+    name: palabras-api
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    envVars:
+     - key: PORT
+       value: 1000
 
