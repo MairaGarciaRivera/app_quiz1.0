@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: palabras-api
+    name: preguntas-api
     env: python
     buildCommand: ""
     startCommand: gunicorn app:app
